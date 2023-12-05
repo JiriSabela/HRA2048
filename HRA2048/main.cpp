@@ -32,6 +32,7 @@ int main() {
             break;
         case 4:
             printf("Konec programu.\n");
+            return 0;
             break;
         default:
             printf("Neplatna volba. Zkuste to znovu.\n");
